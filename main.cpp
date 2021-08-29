@@ -1,5 +1,10 @@
 #include <iostream>
 
+/*
+input: a 0-terminated newline-delimited sequences of integers from standard input
+output: print to standard output the number of even numbers in the input sequence
+*/
+
 // never "using namespace std;"
 using std::cin, std::cout, std::endl;
 
