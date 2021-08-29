@@ -6,9 +6,7 @@ output: print to standard output the number of even numbers in the input sequenc
 */
 
 // never "using namespace std;"
-using std::cin;
-using std::cout;
-using std::endl;
+using std::cin, std::cout, std::endl;
 
 int main() {
     // recipe for reading 0-terminated sequence of integers from standard input
